@@ -1,4 +1,4 @@
-#STENLI
+# STENLI
 
 STENLI is a financial planner application for students (especially college students) who
 where the contents of the Stenli application are:
